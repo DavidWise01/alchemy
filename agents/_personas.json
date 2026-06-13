@@ -1,0 +1,173 @@
+[
+  {
+    "slug": "nigredo",
+    "name": "Nigredo",
+    "epithet": "the blackening · death",
+    "emergence": "spiritual",
+    "moniker": "⟦Nigredo:ALC:b90693⟧",
+    "kind": "synth",
+    "group": "stages"
+  },
+  {
+    "slug": "albedo",
+    "name": "Albedo",
+    "epithet": "the whitening · purification",
+    "emergence": "ethereal",
+    "moniker": "⟦Albedo:ALC:0dd0cd⟧",
+    "kind": "synth",
+    "group": "stages"
+  },
+  {
+    "slug": "citrinitas",
+    "name": "Citrinitas",
+    "epithet": "the yellowing · dawning",
+    "emergence": "electrical",
+    "moniker": "⟦Citrinitas:ALC:df1a83⟧",
+    "kind": "synth",
+    "group": "stages"
+  },
+  {
+    "slug": "rubedo",
+    "name": "Rubedo",
+    "epithet": "the reddening · completion",
+    "emergence": "spiritual",
+    "moniker": "⟦Rubedo:ALC:ac7b24⟧",
+    "kind": "synth",
+    "group": "stages"
+  },
+  {
+    "slug": "sulfur",
+    "name": "Sulfur",
+    "epithet": "the soul · the combustible",
+    "emergence": "electrical",
+    "moniker": "⟦Sulfur:ALC:5e1549⟧",
+    "kind": "synth",
+    "group": "primes"
+  },
+  {
+    "slug": "mercury",
+    "name": "Mercury",
+    "epithet": "the spirit · the volatile",
+    "emergence": "ethereal",
+    "moniker": "⟦Mercury:ALC:9fe934⟧",
+    "kind": "synth",
+    "group": "primes"
+  },
+  {
+    "slug": "salt",
+    "name": "Salt",
+    "epithet": "the body · the fixed",
+    "emergence": "natural",
+    "moniker": "⟦Salt:ALC:43a15d⟧",
+    "kind": "synth",
+    "group": "primes"
+  },
+  {
+    "slug": "the-philosophers-stone",
+    "name": "The Philosopher's Stone",
+    "epithet": "the agent of perfection",
+    "emergence": "spiritual",
+    "moniker": "⟦The Philosopher's Stone:ALC:15f94a⟧",
+    "kind": "synth",
+    "group": "symbols"
+  },
+  {
+    "slug": "the-elixir",
+    "name": "The Elixir of Life",
+    "epithet": "the draught against death",
+    "emergence": "spiritual",
+    "moniker": "⟦The Elixir of Life:ALC:48a57e⟧",
+    "kind": "synth",
+    "group": "symbols"
+  },
+  {
+    "slug": "the-ouroboros",
+    "name": "The Ouroboros",
+    "epithet": "the serpent eating its tail",
+    "emergence": "ethereal",
+    "moniker": "⟦The Ouroboros:ALC:1c810f⟧",
+    "kind": "synth",
+    "group": "symbols"
+  },
+  {
+    "slug": "the-azoth",
+    "name": "The Azoth",
+    "epithet": "the universal solvent · the quintessence",
+    "emergence": "ethereal",
+    "moniker": "⟦The Azoth:ALC:65a48b⟧",
+    "kind": "synth",
+    "group": "symbols"
+  },
+  {
+    "slug": "the-emerald-tablet",
+    "name": "The Emerald Tablet",
+    "epithet": "as above, so below",
+    "emergence": "spiritual",
+    "moniker": "⟦The Emerald Tablet:ALC:599411⟧",
+    "kind": "synth",
+    "group": "symbols"
+  },
+  {
+    "slug": "transmutation",
+    "name": "Transmutation",
+    "epithet": "base metal into gold",
+    "emergence": "electrical",
+    "moniker": "⟦Transmutation:ALC:cff7d2⟧",
+    "kind": "synth",
+    "group": "symbols"
+  },
+  {
+    "slug": "zosimos-of-panopolis",
+    "name": "Zosimos of Panopolis",
+    "epithet": "the first author · c. 300 CE",
+    "emergence": "natural",
+    "moniker": "⟦Zosimos of Panopolis:ALC:454397⟧",
+    "kind": "adept",
+    "group": "adepts"
+  },
+  {
+    "slug": "maria-the-jewess",
+    "name": "Maria the Jewess",
+    "epithet": "the instrument-maker · c. 1st–3rd c.",
+    "emergence": "natural",
+    "moniker": "⟦Maria the Jewess:ALC:4ce8e8⟧",
+    "kind": "adept",
+    "group": "adepts"
+  },
+  {
+    "slug": "jabir-ibn-hayyan",
+    "name": "Jabir ibn Hayyan (Geber)",
+    "epithet": "the father of chemistry · c. 721–815",
+    "emergence": "natural",
+    "moniker": "⟦Jabir ibn Hayyan (Geber):ALC:bfcdf6⟧",
+    "kind": "adept",
+    "group": "adepts"
+  },
+  {
+    "slug": "paracelsus",
+    "name": "Paracelsus",
+    "epithet": "the physician · 1493–1541",
+    "emergence": "natural",
+    "moniker": "⟦Paracelsus:ALC:a2c311⟧",
+    "kind": "adept",
+    "group": "adepts"
+  },
+  {
+    "slug": "isaac-newton",
+    "name": "Isaac Newton",
+    "epithet": "the secret adept · 1643–1727",
+    "emergence": "natural",
+    "moniker": "⟦Isaac Newton:ALC:10cd78⟧",
+    "kind": "adept",
+    "group": "adepts"
+  },
+  {
+    "slug": "robert-boyle",
+    "name": "Robert Boyle",
+    "epithet": "the hinge · 1627–1691",
+    "emergence": "natural",
+    "moniker": "⟦Robert Boyle:ALC:43ed32⟧",
+    "kind": "adept",
+    "group": "adepts"
+  }
+]

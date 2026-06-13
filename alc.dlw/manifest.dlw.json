@@ -1,0 +1,13 @@
+{
+  "node": "ALC",
+  "name": "THE GREAT WORK",
+  "moniker": "⟦THE GREAT WORK:ALC:18b71b⟧",
+  "carbon": "alc.carbon.tiff",
+  "silicon": "alc.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "The transmutation that succeeded was the alchemist into the chemist, and lead-into-gold into the experimental method.",
+  "seal_sha256": "b6b7ee7f560015063a76eb752fc76ec9c91933126f72d79e06eb451727395e73",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
