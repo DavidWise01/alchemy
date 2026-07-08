@@ -9,5 +9,12 @@
   "seal": "The transmutation that succeeded was the alchemist into the chemist, and lead-into-gold into the experimental method.",
   "seal_sha256": "b6b7ee7f560015063a76eb752fc76ec9c91933126f72d79e06eb451727395e73",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 587,
+    "prev": "86978d634176d714be49d231d4ebf64fa3119156e11b618d4c70dfbb62359863",
+    "link": "74095424e8409d0b65670fea4a263cfc79a8de789edca2d033409564a7be7edf",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
